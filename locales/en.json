@@ -1,0 +1,11 @@
+{
+    "ProgressIn": "You are getting in...",
+
+    "ProgressOut": "You are getting out...",
+
+    "NotifyTitle": "Teleport",
+
+    "NotifyIn": "You went into the building",
+
+    "NotifyOut": "You went out of the building"
+}
