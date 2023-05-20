@@ -54,7 +54,7 @@ CreateThread(function()
                                 event = 'HS:TP',
                                 icon = v.icon,
                                 label = v.label,
-                                teleport = v.PosIn,
+                                teleport = v.PosOut,
                                 distance = Config.InteractionDistance,
                             }
                         }
@@ -69,7 +69,7 @@ CreateThread(function()
                                 event = 'HS:TP2',
                                 icon = v.icon,
                                 label = v.labelout,
-                                teleport = v.PosOut,
+                                teleport = v.PosIn,
                                 distance = Config.InteractionDistance,
                             }
                         }
